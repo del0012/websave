@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="UTF-8">
+
+  <title>index.html</title>
+
+</head>
+
+<body>
+
+  <!-- formularz z polem tekstowym do wprowadzenia adresu -->
+
+  <form id="form">
+
+    <input type="text" id="address" placeholder="Wprowadź adres strony">
+
+    <input type="submit" value="Wyślij">
+
+  </form>
+
+  <!-- dołączenie skryptu z kodem JavaScript -->
+
+<script>
+
+document.getElementById("form").addEventListener("submit", function(event) {
+
+  event.preventDefault(); // zatrzymaj domyślne zachowanie formularza
+
+  var address = document.getElementById("address").value; // pobierz wprowadzony adres
+
+  if (!address.startsWith("www.")) { // jeśli adres nie zaczyna się od "www.",
+
+    address = "www." + address; // dodaj ten ciąg znaków do adresu
+
+  }
+
+  try { // spróbuj
+
+    window.location.assign(address); // przekieruj do podanego adresu
+
+  } catch(error) { // jeśli wystąpi błąd,
+
+    alert("Brak pliku: " + address); // wyświetl komunikat o błędzie
+
+  }
+
+});
+
+</script>
+
+</body>
+
+</html>
+
