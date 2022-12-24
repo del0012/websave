@@ -1,0 +1,27 @@
+<metadata>
+<mediatype>image</mediatype>
+<identifier>usgs_drg_tx_31103_e6</identifier>
+<state>Texas</state>
+<latitude>31.500N</latitude>
+<longitude>103.625W</longitude>
+<landmark>Mentone SW</landmark>
+<drg_category>o</drg_category>
+<drg_xscale>2.43840000</drg_xscale>
+<drg_rotation>0.00000000</drg_rotation>
+<drg_translation>0.00000000</drg_translation>
+<drg_yscale>-2.43840000</drg_yscale>
+<drg_utm_eastening>617873.06901498</drg_utm_eastening>
+<drg_utm_northening>3500276.34473950</drg_utm_northening>
+<drg_sector>E6</drg_sector>
+<year_created>1967</year_created>
+<year_modified>1968</year_modified>
+<publicdate>2006-10-16</publicdate>
+<description>USGS DRG o map of Texas 31.500N 103.625W E6 Mentone SW</description>
+<collection>maps_usgs</collection>
+<collection>usgs_tx</collection>
+<title>Map of Texas 31.500N 103.625W</title>
+<uploader>jared@redjar.org</uploader>
+<createddate>1968-01-01</createddate>
+<addeddate>2006-10-16</addeddate>
+<backup_location>ia903600_23</backup_location>
+</metadata>
