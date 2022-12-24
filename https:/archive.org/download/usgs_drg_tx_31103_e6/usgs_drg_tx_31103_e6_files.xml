@@ -1,0 +1,66 @@
+<files>
+<file name="__ia_thumb.jpg" source="original">
+<mtime>1633852795</mtime>
+<size>11438</size>
+<md5>9359ab8903985d71648362e26c0e86e2</md5>
+<crc32>3358ffaf</crc32>
+<sha1>5749076942400d63bf6e4692d5e49567734d188c</sha1>
+<format>Item Tile</format>
+<rotation>0</rotation>
+</file>
+<file name="o31103e6.fgd" source="original">
+<format>Text</format>
+<md5>1c2941966964fa4f23260ae22f9d66b6</md5>
+<mtime>925604528</mtime>
+<size>14698</size>
+<crc32>de4b6170</crc32>
+<sha1>0d6e98e478ba7a4c4d0d014b7da2861fef283eba</sha1>
+</file>
+<file name="o31103e6.gif" source="derivative">
+<format>Animated GIF</format>
+<original>o31103e6.tif</original>
+<md5>c2a9d36a32cc4ef0885c42ae4d0f52ac</md5>
+<mtime>1161665787</mtime>
+<size>5966</size>
+<crc32>ac8adc91</crc32>
+<sha1>bf2687b09fcb7c5f1c390ece2d199c953b5f3475</sha1>
+</file>
+<file name="o31103e6.tfw" source="original">
+<format>Text</format>
+<md5>09903b80b3248a1ea4bc0ffa04762664</md5>
+<mtime>925604528</mtime>
+<size>84</size>
+<crc32>7b7c8a9e</crc32>
+<sha1>93b11aab9d1d8db38e28bc4deb7f7d221cac1f7d</sha1>
+</file>
+<file name="o31103e6.tif" source="original">
+<format>Multi Page Processed TIFF</format>
+<md5>b117c60a65690f45154a6bc97f0e7a58</md5>
+<mtime>925604528</mtime>
+<size>2322562</size>
+<crc32>958f45cb</crc32>
+<sha1>a959f4473c7b7c926490e5b6a0c76b9c3283cec2</sha1>
+</file>
+<file name="usgs_drg_tx_31103_e6_archive.torrent" source="metadata">
+<btih>93fb1d95829684ca4e4b11b547d9c392a8cf76d6</btih>
+<mtime>1635352165</mtime>
+<size>2238</size>
+<md5>c1384f41994365904b0b241785822bc0</md5>
+<crc32>fd008779</crc32>
+<sha1>81f43b764535c864b39c071ea4dfcd9965a350b8</sha1>
+<format>Archive BitTorrent</format>
+</file>
+<file name="usgs_drg_tx_31103_e6_files.xml" source="metadata">
+<format>XML</format>
+<md5>5ec5a761b7f9ce335d7279ebfc554be5</md5>
+<summation>md5</summation>
+</file>
+<file name="usgs_drg_tx_31103_e6_meta.xml" source="metadata">
+<format>XML</format>
+<mtime>1462455796</mtime>
+<size>1090</size>
+<md5>90802e667fc0528ed9dddd4b7fefb663</md5>
+<crc32>a2ae0b23</crc32>
+<sha1>5eebe8a09acc924cfc740dfc3f10ec893735857f</sha1>
+</file>
+</files>
